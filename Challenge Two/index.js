@@ -28,7 +28,7 @@ switch(true){
         break;
     case (maryAverage > johnAverage && maryAverage > mikeAverage):
         console.log("Winner is Mary");
-        break;
+        break; 
     default: console.log("It's a tie!");
         break;
 }
